@@ -1,1 +1,2 @@
 # Red_Wine_Quality_Analysis
+I analysed a Red wine dataset in this project. The dataset consists of 1599 rows containing both quantitative and qualitative characteristics of red wine. I did univariate, bivariate and multivariate analysis as a part of EDA(Exploratory Data Analysis) in order to get useful insights from the data. Later on this analysis was used to create a liner model which tells the quality of a wine depending upon some factors. For this task, linear regression was used.
